@@ -11,25 +11,30 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Josh Painter
   title:
   license_number:
   about_markdown: |
+    Josh Painter is founder of Temecula Impact Club, an organization that raised over $80,000 for local charities in 2017, and over $175,000 since inception.
 
-  brand:
+    While Josh always wanted to be more than just a real estate agent, he uses real estate as a vehicle to make lasting impact on the world around him. Through his company Impact Real Estate, Josh donates a portion of each sale to help local and national charities.
+
+    In 2018, Josh was nominated for Temecula Citizen of the Year. He sits on the Board of Directors for The Front Row Foundation, a national charity whose mission is to help families who are braving critical health challenges "live life in the front row." Josh is the host of Temecula Uncovered podcast, and author of More Than Just A Real Estate Agent. While he has been featured in Forbes magazine, Press Enterprise, Inland Empire Weekly, Valley News, and Real Producers Magazine, he is most proud of his charitable contributions in the Temecula Valley.
+
+  brand: Impact Real Estate
   brokerage:
   market:
   address:
-  phone:
+  phone: 951-265-3524
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: jpainter78@gmail.com
+  url: http://ImpactCA.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.impactca.com/evaluation
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
@@ -38,7 +43,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.impactca.com/evaluation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
@@ -62,13 +67,13 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/ImpactRE/
   linkedin_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCTNWQFb2v-1at2CmamDq32A
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/Josh-Painter/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -94,8 +99,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#C12029'
+  theme_color: '#2F374F'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
